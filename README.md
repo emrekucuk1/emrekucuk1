@@ -117,11 +117,11 @@ Areas of Expertise
 	•	Infrastructure: Self-hosted PaaS, container orchestration, reverse proxy, monitoring & alerting
 	•	Leadership: Sprint planning, team management, technical roadmap and delivery
 
-GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=emrekucuk1&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=default" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrekucuk1&hide=TeX&layout=compact&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img height="165" src="https://stats.SENINDOMAIN.com/api?username=emrekucuk1&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark" alt="GitHub Stats"/>
+  <img height="165" src="https://stats.SENINDOMAIN.com/api/top-langs/?username=emrekucuk1&layout=compact&hide_border=true&langs_count=8&theme=github_dark" alt="Top Languages"/>
 </p>
 
 <p align="center"><i>Open to collaboration on backend, infrastructure and telecom-related projects.</i></p>
